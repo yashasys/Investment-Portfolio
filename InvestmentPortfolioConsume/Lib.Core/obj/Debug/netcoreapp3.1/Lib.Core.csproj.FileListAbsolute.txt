@@ -1,0 +1,10 @@
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Core\bin\Debug\netcoreapp3.1\Lib.Core.deps.json
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Core\bin\Debug\netcoreapp3.1\Lib.Core.dll
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Core\bin\Debug\netcoreapp3.1\Lib.Core.pdb
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.csproj.AssemblyReference.cache
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.AssemblyInfoInputs.cache
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.AssemblyInfo.cs
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.csproj.CoreCompileInputs.cache
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.dll
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.pdb

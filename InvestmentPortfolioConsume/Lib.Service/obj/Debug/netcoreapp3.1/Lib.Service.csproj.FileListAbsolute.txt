@@ -1,0 +1,13 @@
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.csproj.AssemblyReference.cache
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.AssemblyInfoInputs.cache
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.AssemblyInfo.cs
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.csproj.CoreCompileInputs.cache
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.deps.json
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.dll
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.pdb
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Core.dll
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Core.pdb
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.csproj.CopyComplete
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.dll
+C:\Users\yr31\source\repos\InvestmentPortfolioConsume\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.pdb
